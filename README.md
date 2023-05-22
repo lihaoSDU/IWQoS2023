@@ -1,3 +1,5 @@
 ## The anonymized dataset of Storj Storage Nodes.
 
-## Coming soon
+## Dataset Details
+nodeIPList.csv --> Storj SNOs IP
+storagenodeIDsList.csv --> Storj SNOs ID
